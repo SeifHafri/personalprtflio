@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 .project-card-no-image{
     border-top: 4px solid black;
 }
