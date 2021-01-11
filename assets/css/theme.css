@@ -1,0 +1,9 @@
+.project-card-no-image{
+    border-top: 4px solid black;
+}
+#avatar2{
+    height: 250px;
+    width: 250px;
+    border: solid 10px rgb(35, 157, 206);
+    border-radius: 50%;
+}
