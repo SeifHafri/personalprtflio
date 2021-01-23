@@ -1,7 +1,14 @@
 html {
     scroll-behavior: smooth;
   }
-
+#description{
+    font-weight: 500;
+    font-size: large;
+}
+.about-me{
+    font-weight: bold;
+    font-size: large;   
+}
 .project-card-no-image{
     border-top: 4px solid black;
 }
